@@ -1,3 +1,0 @@
-[submodule "bundle/shaders/common-shaders"]
-	path = bundle/shaders/common-shaders
-	url = https://github.com/libretro/common-shaders.git
